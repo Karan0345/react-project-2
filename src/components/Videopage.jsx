@@ -4,7 +4,7 @@ function Videopage() {
   return (
     <div className="w-full h-screen relative">
       <div className="w-full h-screen object-cover overflow-hidden absolute rounded-3xl">
-        <video autoPlay loop muted src="/src/assets/video/project 3.webm"></video>
+        <video autoPlay loop muted src="/dist/assets/video/project 3.webm"></video>
       </div>
       <div className="text w-full h-screen font-bold bg-[#00000000] absolute">
           <div className="first text-[6.7vw] pt-56 pl-96">

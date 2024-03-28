@@ -23,7 +23,7 @@ function Frames() {
             </div>
             <div className='left w-[50%] h-screen overflow-hidden'>
                 <div className='video w-full h-screen mt-24 ml-24'>
-                <video autoPlay loop muted src="/src/assets/video/section 5.webm"></video>
+                <video autoPlay loop muted src="/dist/assets/video/section 5.webm"></video>
                 </div>
               
             </div>

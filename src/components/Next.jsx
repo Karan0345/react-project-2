@@ -5,7 +5,7 @@ function Next() {
     <div className="main w-full h-screen bg-[#ffffff5e] text-black flex rounded-3xl">
       <div className="left w-[50%] h-screen overflow-hidden">
         <div className="video w-full h-screen mt-24 ml-24">
-          <video autoPlay loop muted src="/src/assets/video/section 3.webm"></video>
+          <video autoPlay loop muted src="/dist/assets/video/section 3.webm"></video>
         </div>
       </div>
       <div className="right w-[50%] h-screen ">

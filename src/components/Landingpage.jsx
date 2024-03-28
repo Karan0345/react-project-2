@@ -12,7 +12,7 @@ function Landingpage() {
                 {index === 1 && (
                   <div className="w-[8vw] h-[5.7vw] mr-[1vw] ml-[1vw] rounded-md -mt-[1vw]">
                     <div className="w-full h-screen object-cover">
-                      <video autoPlay loop muted src="/src/assets/video/section 3.webm"></video>
+                      <video autoPlay loop muted src="/dist/assets/video/section 3.webm"></video>
                     </div>
                     
                   </div>
