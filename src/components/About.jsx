@@ -5,7 +5,7 @@ function About() {
   return (
     <div className='video w-full h-screen object-cover absolute overflow-hidden rounded-3xl'>
         <div>
-        <video autoPlay loop muted src="/src/video/section 2.mp4"></video>
+        <video autoPlay loop muted src="/src/assets/video/section 2.mp4"></video>
     </div>
     </div> 
     
